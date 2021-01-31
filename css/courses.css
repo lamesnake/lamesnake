@@ -15,6 +15,7 @@ div.course {
 }
 
 div.course2 {
+    color: white;
     width: 400px;
     height: 500px;
     background: white;
@@ -33,6 +34,9 @@ div.course3 {
     top: 300px;
     left: 1300px;
 }
+
+
+
 
 h6 {
 	font-size: 1em;
