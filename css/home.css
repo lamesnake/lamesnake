@@ -15,6 +15,7 @@ section#content {
 img#slide {
     width: 100%;
     height: auto;
+    transparency: 40%;
 }
 
 /*
@@ -31,11 +32,11 @@ img#slide {
 */
 
 div.course {
-    background: white;
+    background: #0e1e2e;
     border: 1px solid transparent;
     position: absolute;
     top: 1244px;
-    left: 100px;
+    left: 250px;
     width: 500px;
     height: 400px;
 }
@@ -43,21 +44,31 @@ div.course {
 div.course2 {
     width: 500px;
     height: 400px;
-    background: white;
+    background: #0e1e2e;
     border: 1px solid transparent;
     position: absolute;
     top: 1244px;
-    left: 550px;
+    left: 800px;
 }
 
 div.course3 {
     width: 500px;
     height: 400px;
-    background: white;
+    background: #0e1e2e;
     border: 1px solid transparent;
     position: absolute;
-    top: 1244px;
-    left: 1000px;
+    top: 1700px;
+    left: 800px;
+}
+
+div.course4 {
+    width: 500px;
+    height: 400px;
+    background: #0e1e2e;
+    border: 1px solid transparent;
+    position: absolute;
+    top: 1700px;
+    left: 250px;
 }
 
 h6 {
@@ -114,8 +125,8 @@ div.reviews {
 }
 
 div.courses {
-    width: 300px;
-    height: 200px;
+    width: 650px;
+    height: 650px;
     background: black;
     text-align: center;
     color: white;
@@ -126,7 +137,7 @@ div.courses {
 
 div.content {
     width: 300px;
-    height: 200px;
+    height: 500px;
     background: black;
     text-align: center;
     color: white;
