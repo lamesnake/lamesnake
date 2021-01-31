@@ -24,14 +24,26 @@ img#logo {
 }
 
 img#profile {
+    color: white;
     margin-left: 100px;
     margin-right: 100px;
     position: relative;
     top: 17px;
     left: 60px;
-    width:40%;
+    width:200px;
+    height:200px;
+}
+img#profilenew {
+    color: white;
+    margin-left: 460px;
+    margin-right: 100px;
+    position: relative;
+    top: -400px;
+    left: 235px;
+    width:14%;
     height:auto;
 }
+
 
 nav {
     display: inline-block;
@@ -56,7 +68,7 @@ a:hover {
 
 button {
     width: 50%;
-    height: 50px;
+    height: 100px;
     background: #172035;
     color: white;
     font-size: 2em;
